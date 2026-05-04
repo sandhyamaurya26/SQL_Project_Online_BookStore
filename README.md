@@ -79,7 +79,7 @@ The database consists of the following tables:
 
 ##  Project Highlights
 - Designed relational database schema
-- Solved 200+ real-world SQL queries
+- Solved 20+ real-world SQL queries
 - Applied joins and aggregations for data analysis
 - Structured project for portfolio showcase
 
