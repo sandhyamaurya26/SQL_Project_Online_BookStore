@@ -7,7 +7,7 @@ This project demonstrates my SQL skills by designing and analyzing an **Online B
 The objective of this project is to extract meaningful insights from the dataset using SQL queries, including filtering, aggregation, joins, and data analysis techniques.
 
 ## 📄 Project Report
-Click the icon above to view the full project report.
+Click the icon below to view the full project report.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1tw4vz5EAUtqICtFAOjLKCr3JCdejDYLV/view?usp=sharing" target="_blank">
