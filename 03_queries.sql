@@ -6,6 +6,7 @@ SELECT * FROM CUSTOMERS LIMIT 10;
 
 SELECT * FROM orders LIMIT 10;
 
+-- Analysis Part
 
 -- 1) Retrieve all books in the "Fiction" genre:
 SELECT * FROM books 
