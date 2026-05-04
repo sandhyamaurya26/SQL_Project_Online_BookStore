@@ -1,12 +1,12 @@
 
-# 📚 SQL Project – Online Bookstore Analysis
+#  SQL Project – Online Bookstore Analysis
 
-## 📖 Project Overview
+##  Project Overview
 This project demonstrates my SQL skills by designing and analyzing an **Online Bookstore Database**. It includes structured data across multiple tables such as Books, Customers, and Orders, along with 20+ SQL queries ranging from basic to advanced levels.
 
 The objective of this project is to extract meaningful insights from the dataset using SQL queries, including filtering, aggregation, joins, and data analysis techniques.
 
-## 📄 Project Report
+##  Project Report
 Click the icon below to view the full project report.
 
 <p align="center">
@@ -19,7 +19,7 @@ Click the icon below to view the full project report.
 
 ---
 
-## 🧱 Database Schema
+##  Database Schema
 The database consists of the following tables:
 - **Books** – Contains information about books (title, author, genre, price, stock, etc.)
 - **Customers** – Stores customer details (name, country, city, etc.)
@@ -27,7 +27,7 @@ The database consists of the following tables:
 
 ---
 
-## 🔍 Key SQL Concepts Used
+##  Key SQL Concepts Used
 - Data Retrieval using `SELECT`
 - Filtering using `WHERE`
 - Sorting using `ORDER BY`
@@ -39,7 +39,7 @@ The database consists of the following tables:
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### 🔹 Basic Queries
 - Retrieved books by genre (e.g., Fiction)
@@ -69,7 +69,7 @@ The database consists of the following tables:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - SQL (Structured Query Language)
 - Database Systems:
   - MySQL / PostgreSQL
@@ -77,7 +77,7 @@ The database consists of the following tables:
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 - Designed relational database schema
 - Solved 200+ real-world SQL queries
 - Applied joins and aggregations for data analysis
@@ -85,5 +85,5 @@ The database consists of the following tables:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project reflects my ability to work with relational databases and perform data analysis using SQL. It demonstrates problem-solving skills and practical understanding of database concepts, making it a strong addition to my data analytics portfolio.
