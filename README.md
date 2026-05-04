@@ -10,7 +10,7 @@ The objective of this project is to extract meaningful insights from the dataset
 Click the icon below to view the full project report.
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1tw4vz5EAUtqICtFAOjLKCr3JCdejDYLV/view?usp=sharing](https://drive.google.com/file/d/1tw4vz5EAUtqICtFAOjLKCr3JCdejDYLV/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1tw4vz5EAUtqICtFAOjLKCr3JCdejDYLV/view?usp=sharing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
          alt="PDF Report" 
          width="150"/>
