@@ -61,7 +61,7 @@ The database consists of the following tables:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Identified high-demand genres and books
 - Analyzed customer purchasing behavior
 - Determined revenue generation patterns
