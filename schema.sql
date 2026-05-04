@@ -53,7 +53,9 @@ COPY CUSTOMERS(Order_ID,Customer_ID,Book_ID,Order_Date,Quantity,Total_Amount)
 FROM 'C:\SANDHYA\Data Analysis\SQL PROJECT\ORDERS.CSV'
 CSV HEADER;
 
+
 --Displaying Records
+
 SELECT * FROM Books LIMIT 10;
 
 SELECT * FROM CUSTOMERS LIMIT 10;
