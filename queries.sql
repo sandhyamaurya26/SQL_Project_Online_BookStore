@@ -1,5 +1,10 @@
 --Dislpaying Schema 
 
+SELECT * FROM Books LIMIT 10;
+
+SELECT * FROM CUSTOMERS LIMIT 10;
+
+SELECT * FROM orders LIMIT 10;
 
 
 -- 1) Retrieve all books in the "Fiction" genre:
@@ -53,7 +58,8 @@ LIMIT 1;
 
 -- 11) Calculate the total revenue generated from all orders:
 SELECT SUM(total_amount) AS revenue FROM orders;
- 
+
+
 
 -- Advance Questions : 
 
