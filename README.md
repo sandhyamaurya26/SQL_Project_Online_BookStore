@@ -6,6 +6,12 @@ This project demonstrates my SQL skills by designing and analyzing an **Online B
 
 The objective of this project is to extract meaningful insights from the dataset using SQL queries, including filtering, aggregation, joins, and data analysis techniques.
 
+Refer The Documentation 
+<a href="[SQL_Project_Report.pdf](https://drive.google.com/file/d/1tw4vz5EAUtqICtFAOjLKCr3JCdejDYLV/view?usp=sharing)">
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" 
+       alt="PDF Report" 
+       width="120"/>
+</a>
 ---
 
 ## 🧱 Database Schema
