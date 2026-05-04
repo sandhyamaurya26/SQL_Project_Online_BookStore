@@ -2,7 +2,7 @@
 # 📚 SQL Project – Online Bookstore Analysis
 
 ## 📖 Project Overview
-This project demonstrates my SQL skills by designing and analyzing an **Online Bookstore Database**. It includes structured data across multiple tables such as Books, Customers, and Orders, along with 30+ SQL queries ranging from basic to advanced levels.
+This project demonstrates my SQL skills by designing and analyzing an **Online Bookstore Database**. It includes structured data across multiple tables such as Books, Customers, and Orders, along with 20+ SQL queries ranging from basic to advanced levels.
 
 The objective of this project is to extract meaningful insights from the dataset using SQL queries, including filtering, aggregation, joins, and data analysis techniques.
 
